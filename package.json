@@ -2,7 +2,7 @@
   "name": "ryabov",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://levganochkin.github.io/Mind-Money-test-authorization",
+  "homepage": "https://levganochkin.github.io/mind-money-test-authorization",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
@@ -27,7 +27,7 @@
     "zod": "^3.23.8"
   },
   "scripts": {
-    "dev": "react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",

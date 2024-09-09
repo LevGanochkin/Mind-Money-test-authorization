@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mind-money-test-authorization/static/css/main.dd42c7dc.css",
-    "main.js": "/mind-money-test-authorization/static/js/main.b7dd3530.js",
-    "index.html": "/mind-money-test-authorization/index.html",
-    "main.dd42c7dc.css.map": "/mind-money-test-authorization/static/css/main.dd42c7dc.css.map",
-    "main.b7dd3530.js.map": "/mind-money-test-authorization/static/js/main.b7dd3530.js.map"
+    "main.css": "/static/css/main.dd42c7dc.css",
+    "main.js": "/static/js/main.b7dd3530.js",
+    "index.html": "/index.html",
+    "main.dd42c7dc.css.map": "/static/css/main.dd42c7dc.css.map",
+    "main.b7dd3530.js.map": "/static/js/main.b7dd3530.js.map"
   },
   "entrypoints": [
     "static/css/main.dd42c7dc.css",

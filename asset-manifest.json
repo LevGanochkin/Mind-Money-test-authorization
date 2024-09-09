@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mind-money-test-authorization/static/css/main.dd42c7dc.css",
+    "main.js": "/mind-money-test-authorization/static/js/main.b7dd3530.js",
+    "index.html": "/mind-money-test-authorization/index.html",
+    "main.dd42c7dc.css.map": "/mind-money-test-authorization/static/css/main.dd42c7dc.css.map",
+    "main.b7dd3530.js.map": "/mind-money-test-authorization/static/js/main.b7dd3530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd42c7dc.css",
+    "static/js/main.b7dd3530.js"
+  ]
+}
